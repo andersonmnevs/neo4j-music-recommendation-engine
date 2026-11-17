@@ -2,7 +2,7 @@
 
 Motor de recomendação de músicas baseado em grafos (Neo4j + Cypher + GDS), desenvolvido para o Desafio de Projeto da DIO.
 
-> **Status:** implementação e evidências concluídas. Falta apenas publicar no GitHub e entregar na DIO. Veja o [roadmap](#roadmap).
+> **Status:** projeto concluído e entregue. Veja o [roadmap](#roadmap).
 
 ## Por que grafos?
 
@@ -141,4 +141,4 @@ Sintético e determinístico (`seed=42`). Cada usuário tem 1–2 gêneros prefe
 - [x] **Etapa 3:** testes (`tests/run_tests.py`), `PROFILE`/`EXPLAIN`, `run.sh`
 - [x] **Etapa 4 (código/docs):** diagrama, queries de negócio, roteiro de evidências
 - [x] Prints das evidências
-- [ ] **Entrega:** publicar no GitHub e enviar o link na DIO
+- [x] **Entrega:** publicado no GitHub e enviado na DIO
